@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237842426351",
+    "project_id": "gymggun-f9db2",
+    "storage_bucket": "gymggun-f9db2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237842426351:android:b1ee10facd0e8b93fe6e1a",
+        "android_client_info": {
+          "package_name": "com.example.final_project_fe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchVaHolKo82uosxhYKohE2lXA9puci5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237842426351:android:27bc4661401735fcfe6e1a",
+        "android_client_info": {
+          "package_name": "com.example.gymggun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchVaHolKo82uosxhYKohE2lXA9puci5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
